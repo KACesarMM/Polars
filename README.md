@@ -4,7 +4,7 @@ Este repositorio lo hago con el objetivo de prácticar en el uso de polars y par
 
 
 En el primer ejemplo hemos comparado 2 dataframes iguales 1 en pandas el otro en polars, la diferencia es más estética que no funcional.
-
+``
 DataFrame en Polars:
 shape: (5, 4)
 ┌────────┬──────┬───────────┬─────────┐
